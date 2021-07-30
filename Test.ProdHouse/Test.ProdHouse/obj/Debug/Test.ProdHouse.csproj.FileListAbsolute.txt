@@ -1,0 +1,16 @@
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\bin\Debug\Test.ProdHouse.exe.config
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\bin\Debug\Test.ProdHouse.exe
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\bin\Debug\Test.ProdHouse.pdb
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.Form1.resources
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.Properties.Resources.resources
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.csproj.GenerateResource.cache
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.csproj.CoreCompileInputs.cache
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.exe
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.pdb
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.csproj.CopyComplete
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\bin\Debug\EntityFramework.dll
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\bin\Debug\EntityFramework.xml
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.ViewForm.resources
+C:\AMIT\CODING\Test.ProdHouse\Test.ProdHouse\obj\Debug\Test.ProdHouse.AllMovies.resources
